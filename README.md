@@ -1,7 +1,7 @@
 <h1 align="center">Holaa!! Mohammad Huzaifa Here💫💫</h1>
 <h3 align="center">A fervid Web developer and Competitive Programmer 👻. Pre-final year IIIT Bhopal🤖</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimesher.com%2Fentry%2Fcool-gifs-gifs-awesome-885287%2F&psig=AOvVaw074RK5UCghgcifdKP-yUSg&ust=1684162948515000&source=images&cd=vfe&ved=2ahUKEwjYy8uDivX-AhUWXmwGHYJACOIQjRx6BAgAEAw" alt="gif" align="right" widht="400" />
+<img src="https://animesher.com/entry/cool-gifs-gifs-awesome-885287/" alt="gif" align="right" widht="400" />
 
 
 - 🐾 I’m currently learning **Full Stack development and Data Structures and Algorithm**
