@@ -139,21 +139,21 @@
 <br></br>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=huzaifa9999" alt="huzaifa9999" />
+        <img src="https://github-profile-trophy.vercel.app/?username=huzaifa9999&theme=darkhub" alt="huzaifa9999" />
     </a>
 </p>
 
 <p align="center">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa9999&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa9999&show_icons=true&locale=en&layout=compact&theme=nightowl"
         alt="huzaifa9999" />
 </p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=huzaifa9999&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=huzaifa9999&show_icons=true&locale=en&theme=nightowl"
         alt="huzaifa9999" /></p>
 
 <p align ="right">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa9999&"
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa9999&theme=nightowl"
         alt="huzaifa9999" />
 </p>
