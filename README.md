@@ -1,4 +1,4 @@
-<h1 align="center">Holaa!! Mohammad Huzaifa Here💫💫</h1>
+<h1 align="center">Holaa!! Huzaifa Here💫💫</h1>
 <h3 align="center">A fervid Web developer and Competitive Programmer 👻 Pre-final year IIIT
     Bhopal🤖</h3>
     <br></br>
