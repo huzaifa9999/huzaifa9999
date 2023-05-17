@@ -3,8 +3,8 @@
     Bhopal🤖</h3>
     <br></br>
 <p>
-    <img alt="gif" align="right" widht="370"
-        src="https://media.tenor.com/tx9ecmF1xH0AAAAC/kaneki-cool.gif" />
+    <img alt="gif" align="right" widht="320" height="280"
+        src="https://media.tenor.com/nwTD5-bwkRcAAAAC/shinji-ikari-thank-you.gif" />
 </p>
 
 - 🐾 I’m currently learning **Full Stack development and Data Structures and Algorithm**
