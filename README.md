@@ -55,7 +55,7 @@
         <a href="https://www.leetcode.com/https://leetcode.com/user8040w/" target="blank">
             <img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-                alt="https://leetcode.com/user8040w/" height="40" width="50" />
+                alt="https://leetcode.com/huzaifa999/" height="40" width="50" />
         </a>
     </p>
 
