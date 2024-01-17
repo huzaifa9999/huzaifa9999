@@ -148,12 +148,13 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa9999&show_icons=true&locale=en&layout=compact&theme=nightowl"
         alt="huzaifa9999" />
 </p>
+<p align ="right">
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa9999&theme=nightowl"
+        alt="huzaifa9999" />
+</p>
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=huzaifa9999&show_icons=true&locale=en&theme=nightowl"
         alt="huzaifa9999" /></p>
 
-<p align ="right">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa9999&theme=nightowl"
-        alt="huzaifa9999" />
-</p>
+
